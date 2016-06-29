@@ -7,3 +7,6 @@ Contributors guide
 =================
 
 test test
+
+==========
+Add more text
